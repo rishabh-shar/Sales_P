@@ -6,3 +6,4 @@ I visualized the data by plotting it into different graphs and making relations 
 # Conclusion
 I used many models like regression, randomforest and boosting models.
 The one which gave me the best outcome was XGBoosting.
+This project helped me in understanding feature engineering as well as best approaches to tackle a regression problem.
