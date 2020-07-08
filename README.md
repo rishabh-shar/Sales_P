@@ -5,6 +5,8 @@ I visualized the data by plotting it into different graphs and making relations 
 
 # Objective
 The main goal of the project was to predict the future sales for all the items by observing and training on previous data.
+Furthermore, my goal that I wanted from this project was to learn regression techniques better and also to takkle real world data issues.
+This project certainly helped me achieving those goals.
 
 # Conclusion
 I used many models like regression, randomforest and boosting models.
